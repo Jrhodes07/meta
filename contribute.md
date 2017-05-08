@@ -18,7 +18,7 @@ We will mention your contributions to any of those fields on our release notes.
 
 Here is your path for leading and contributing in the community (and you can also contribute by improving the path itself):
 
-# [Community]()    -    [Docs]()    -    [Support & Issues]()    -    [Code]()
+# [Community](https://github.com/AngularCommunity/meta/blob/master/community.md)    -    [Docs](#docs)    -    [Support & Issues](#support-and-issues)    -    [Code](#code)
 
 
 (add link here to the main Github project that gathers all tasks)
