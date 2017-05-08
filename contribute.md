@@ -48,6 +48,8 @@ You can submit your course or use one of the existing online resource to teach a
 The next step in helping the community is helping with answering questions and solving issues.
 This can make you a better developer and also save a lot of time for the core team. Currently most of the time of the core team is spent on this instead of developing the next features we need.
 
+![alt text](https://github.com/AngularCommunity/community/raw/master/contribute.png)
+
 #### Stack Overflow
 Stack overflow is the first place people are getting into when searching for help.
 You can help make sure they will find the right answer.
