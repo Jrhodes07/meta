@@ -75,6 +75,8 @@ Getting an issue into this state is a huge contribution!  And makes it easy to m
 Here we will talk about contributions in code.  This is not the only or most important contribution, every step of the way is important and a great help.
 Contributing to code is a process, you can think of it as a ladder you progress to. (we should create an equivalent of the Drupal Ladders)
 
+https://github.com/orgs/AngularCommunity/projects/3
+
 #### Roadmap
 Here is the roadmap of the core team (link to ROADMAP.md and to Github project tool). 
 This way you know what we are aiming for, so you can contribute to that effort and spend time on efforts the core team won’t handle for now.
