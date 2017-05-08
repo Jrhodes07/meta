@@ -13,6 +13,6 @@ here is a visual map to get an overview (an interactive and better visal design 
 
 ![alt text](https://github.com/AngularCommunity/community/raw/master/Angular%20Community%20Hub%20Sketch.png)
 
-# [Learn]()    -    [Meet]()    -    [Lead]()    -    [Ask]()
+# [Learn](https://github.com/AngularCommunity/meta/blob/master/learn.md)    -    [Meet](https://github.com/AngularCommunity/meta/blob/master/community.md)    -    [Lead](https://github.com/AngularCommunity/meta/blob/master/contribute.md)    -    [Ask](https://github.com/AngularCommunity/meta/blob/master/contribute.md#stack-overflow)
 
 
