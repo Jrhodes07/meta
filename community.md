@@ -4,7 +4,7 @@ You are part of our community.
 Meeting colleagues is a great way to become a better developer.
 You can connect to people right next to you or all around the world.
 
-Our community is spread across the web ([online]()) and in physical locations ([offline]()).
+Our community is spread across the web ([online](#online)) and in physical locations ([offline](#Physical)).
 
 ## Online
 Join the conversation online, follow and talk with your community.
