@@ -6,12 +6,12 @@ There is no need to be an expert in order to start helping, anyone can and shoul
 doing it in anyway you feel comfortable.
 You can progress slowly as a contributer and you can ask help on how to progress as a contributer.
 
-Here is your path to become a leader in our community.  You can contribute in many ways and all ways are meaningful and welcome. Start small and grow your skills gradually. 
+Here is your path to becoming a leader in our community.  You can contribute in many ways and they are all meaningful and welcome. Start small and grow your skills gradually. 
 
 ### Your contributor profile
-Your contributions will be track in your community profile and we will support you and promote you as much as we can as you move up and gather more badges and points on your community profile. Contributing to the community helps everyone but mostly yourself. It’s not only feels good, but also makes you a better developer and helps promote yourself in the community and job space.
+Your contributions will be tracked in your community profile and we will support you and promote you as much as we can as you move up and gather more badges and points on your community profile. Contributing to the community helps everyone but mostly yourself. It not only feels good, but also makes you a better developer. Contributions are also a great way to promote yourself in the community and job search.
 
-Your profile will reflect the Meetups you are part of, the meetups you help organize, talk and conferences you participated in, your contributions to the docs, your contributions on Stack Overflow on the `x` tag, the issues you help triage and reproduce, the PRs you submitted to the library and the libraries you are a member of.
+Your profile will reflect the Meetups you are part of, the meetups you help organize, talks and conferences you participated in, contributions to the documentation, contributions on Stack Overflow on the `x` tag, issues you help triage and reproduce, PRs you submitted to the library and libraries you are a member of.
 
 (Should this be a separate profile on the community site or maybe we can integrate it into the existing Github profile using badges, organizations and teams)
 We will mention your contributions to any of those fields on our release notes.
@@ -28,8 +28,8 @@ The official docs are not the only resource and won’t cover everything.
 For the topics that the official docs won’t cover there are few solutions.
 
 The first place you should search for questions and resources is Google Search.
-But Google Search not always gives you the best result.
-This is why one of the most important contributions is once you found the answer for the question you asked, go back to Google, search for the question again, and direct and comment in all the top results into the right answer.  That will make the next hundreds after you find the answer quicker and will safe hours of development for everyone.
+But Google Search does not always gives you the best result.
+This is why one of the most important contributions is once you found the answer for the question you asked, go back to Google, search for the question again, and direct and comment in all the top results into the right answer.  That will make the next hundreds after you find the answer quicker and will save hours of development for everyone.
 
 #### Stack Overflow
 Usually the first resource that pops up in Google is Stack Overflow. Once you found the right answer, make sure to mark that answer as correct and also comment with additional information that can help the next developer after you.
@@ -42,7 +42,7 @@ That will also help the core team to review the needed content from the communit
 #### Trainings, courses and tutorials
 The best way to learn is to teach.
 Here is a list of trainings and courses both online and offline.
-You can submit your course or use one of the existing online resource to teach a friend. That would really help making you a better developer.
+You can submit your course or use one of the existing online resource to teach a friend. That would really help in making you a better developer.
 
 ### Support and issues
 The next step in helping the community is helping with answering questions and solving issues.
@@ -61,14 +61,14 @@ One of the most important contributions is “issue triaging”. That means goin
 You can start by reviewing the issues and making sure they are ready according to the following process (link here to ISSUE_TEMPLATE on Github). Each step you add will make a big contribution, even if you were unable to do it all:
 
 1. Mark the issue in the right category (Feature request, bug, etc..  link to list of badges)
-2. Intendent outcome - what was suppose to happen
+2. Intended outcome - what was suppose to happen
 3. Actual outcome - What did happen
 4. Reproduction (this is the most important part)
-    A new repository with the simplest app possible that demonstrates 
+    A new repository with the simplest app possible that demonstrates functionality 
     A video of your screen running that app and demonstrating the error
     
 To track new issues, follow the **#github** Slack channel.
-Getting an issue into this state is a huge contribution!  And makes it easy to move on to the next step.
+Getting an issue into this state is a huge contribution!  This makes it easy to move on to the next step.
 
 
 ### Code 
@@ -82,7 +82,7 @@ Here is the roadmap of the core team (link to ROADMAP.md and to Github project t
 This way you know what we are aiming for, so you can contribute to that effort and spend time on efforts the core team won’t handle for now.
 On the roadmap document itself you can help us in the following ways:
 
-* Help us measure the status and success of each goals
+* Help us measure the status and success of each goal
 * Offer different goals (in the #goals-and-roadmap Slack channel)
 * Community goal - have 1% of our community being core contributors (moving up the ladder) 
 
@@ -92,7 +92,7 @@ Here is a repository with links to example applications (link to a new “awesom
 You can submit issues for app types that are missing in there that will help you promote our Framework, improve the existing sample applications or submit a new one.
 
 #### 3rd party libraries
-Here is a repository with 3rd party library (link to a new “awesome” repository).
+Here is a repository with 3rd party libraries (link to a new “awesome” repository).
 You can open issues for missing tools that don’t exist yet, submit existing libraries that are missing from the repository, go and help existing libraries or create new libraries that are missing and needed. 
 Here are guidelines for creating a 3rd party library.
 
